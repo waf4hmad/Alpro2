@@ -13,7 +13,7 @@ class Pig extends Animal {
    public void animalSound(){
    	System.out.println("aaa");
    }
-}
+}  
 
 public class Main {
   public static void main(String[] args) {
